@@ -13,10 +13,10 @@ genai.configure(api_key=GENAI_API_KEY)
 
 DB_CONFIG = {
     "dbname": "northwind",
-    "user": "postgres",
-    "password": "postgres",
+    "user": "",
+    "password": "",
     "host": "localhost",
-    "port": "55432", 
+    "port": "", 
 }
 
 
