@@ -7,7 +7,7 @@ from langchain.prompts import PromptTemplate
 from langchain_google_genai import GoogleGenerativeAI
 
 """Set up Google Gemini API Key (replace with your key)"""
-GENAI_API_KEY = "AIzaSyDXrgWrQ7nLWcY-3FluaniKYTxEowJs_8U"
+GENAI_API_KEY = "APIkey"
 genai.configure(api_key=GENAI_API_KEY)
 
 
